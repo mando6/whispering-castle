@@ -1,4 +1,4 @@
-Networking:
+### Networking:
 - [ ] ACL
 - [ ] 802.1X
 - [ ] IEEE
@@ -7,14 +7,15 @@ Networking:
 - [ ] SDN
 - [ ] P2P
 
-Fortigate:
+### Fortigate:
 - [ ] NSE 4 - FortiOS Admin
 - [ ] NSE 5 - FortiWeb Admin
 
+### Microsoft
 - [ ] SC-200
 - [ ] SC-200 Lab(s)
 
-CHFI-specific
+### CHFI-specific
 - [ ] Module 1: Computer Forensics
 - [ ] Module 2: Computer Forensics Investigation Process
 - [ ] Module 3: Understanding Hard Disks and File Systems
@@ -26,12 +27,12 @@ CHFI-specific
 - [ ] Module 9: Malware Forensics
 - [ ] Module 10: Investigating Web Attacks
 
-
+### Programming
 - [ ] Python
 - [ ] PowerShell
 - [ ] Bash
 
-GREM-specific
+### GREM-specific
 - [ ] Analyzing Malicious Office Macros
 - [ ] Analyzing Malicious PDFs
 - [ ] Analyzing Malicious RTF Files
@@ -48,6 +49,7 @@ GREM-specific
 - [ ] Static Analysis Fundamentals
 - [ ] Unpacking and Debugging Packed Malware
 
+### Other - *still brainstorming*
 - [ ] Penetration Testing
 
 - [ ] Vulnerability Research
