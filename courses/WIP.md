@@ -7,9 +7,9 @@
 - [ ] SDN
 - [ ] P2P
 
-### Fortigate:
-- [ ] NSE 4 - FortiOS Admin
-- [ ] NSE 5 - FortiWeb Admin
+### Fortigate: Complete
+- [x] ~~NSE 4 - FortiOS Admin~~ 
+- [x] ~~NSE 5 - FortiWeb Admin~~ 
 
 ### Microsoft
 - [ ] SC-200
